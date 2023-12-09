@@ -26,8 +26,8 @@ This project aims to optimize the management of product data in online stores. I
 
 To run this project, you need the following tools:
 
-- **C Compiler (e.g., GCC):** To translate C code into executable binaries.
-- **IDE (e.g., Code::Blocks, Visual Studio Code):** For code development, debugging, and project management.
+- **C Compiler (GCC):** To translate C code into executable binaries.
+- **IDE (Visual Studio Code):** For code development, debugging, and project management.
 
 ## Usage
 Run the program to initialize product data and perform real-time display, statistical analysis, and predictions.
